@@ -2,6 +2,7 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://cullinans1.github.io/photo-port",
   "dependencies": {
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
@@ -31,7 +32,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://cullinans1.github.io/photo-port",
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
